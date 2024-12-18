@@ -1,0 +1,10 @@
+{
+  "name": "ServerTask_26.2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/NocnyZwierz/ServerTask_26.2.git",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
